@@ -41,4 +41,4 @@ In [2]: for bu in BU.objects.all():
 
 ## Autores
 
-  * Beraldo Leal <beraldo AT ime DOT usp DOT br>
+  * Beraldo Leal, email: beraldo AT ime DOT usp DOT br.
